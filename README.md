@@ -9,7 +9,7 @@
 
 ##  ✨ Datos rapidos de mi ⚡
 
-<img align= "right" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b7611tbkn0fchwbicy4cwicgwrph4ow13027vm1xn1x61&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=150>
+<img align= "right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg5Zmw5cGUydGhneHVuMmpnZTMxcnBoYnY5M3ducDBsM3VkMGxjcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" width=150>
 
 - 🌱 Estoy aprendiendo nuevas tecnicas de análisis 
  y visualización de datos.
