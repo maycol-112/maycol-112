@@ -1,5 +1,7 @@
 ![Header](./your-header-image-name.png)
 
+
+
  💻 Estudiante de Ciencias de la computación | Interés en análisis de datos y machine learning 🧐 | 
 
  ***
@@ -18,7 +20,7 @@
 
 - 📫 Contacto:  andersoncompa@gmail.com
 
-- ⚡ Fun fact: 
+-  
 
 ***
 ## Herramientas que uso.
